@@ -3,3 +3,11 @@ body {
     text-align: center;
     font-family:'Courier New', Courier, monospace;
 }
+
+h1 {
+    font-style: italics;
+}
+
+h3 {
+    font-style: bold;
+}
