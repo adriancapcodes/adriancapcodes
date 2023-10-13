@@ -1,11 +1,5 @@
-
-h1, h2 {
+body {
     color: #127369;
     text-align: center;
     font-family:'Courier New', Courier, monospace;
-}
-
-p {
-    color: blue;
-    text-align: center;
 }
